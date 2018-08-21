@@ -1,0 +1,5 @@
+site web pour la documentation de SEMANTIC (analogue à BootStrap)
+https://react.semantic-ui.com/
+
+Pour installer semantic, semantic-ui-css et les interfaces pour faire du Type Script
+yarn add semantic-ui-react semantic-ui-css

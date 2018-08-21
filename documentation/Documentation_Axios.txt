@@ -1,0 +1,3 @@
+pour pouvoir envoyer des requêtes HTTP (interroger un Back), il faut installer axios
+
+yarn add axios @types/axios
