@@ -66,6 +66,7 @@ export default class Accueil extends React.Component<IAccueilProps, IAccueilStat
                         motifJava: this.state.motif,
                         texte: this.state.texte
                     }).then(response => {
+                        console.log("motifJava : " + this.state.motif);
                         console.log(response);
                     });
     }
