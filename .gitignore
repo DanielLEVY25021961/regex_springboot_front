@@ -19,4 +19,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
+=======
+/.settings/
+/tsconfig.json
+>>>>>>> branch 'master' of https://github.com/DanielLEVY25021961/regex_springboot_front.git
 /.pmd
